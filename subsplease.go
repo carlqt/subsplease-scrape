@@ -8,6 +8,8 @@ import (
 	"mime"
 	"net/http"
 	"os"
+	"sync"
+	"time"
 )
 
 type Episode map[string]EpisodeDetail
@@ -56,14 +58,25 @@ func getEpisodes(sid string) {
 
 // downloadAllEpisodes extracts the 720p links and downloads it
 func downloadAllEpisodes(episode Episode) {
+	var wg sync.WaitGroup
+
 	for _, v := range episode {
 		for _, d := range v.Downloads {
 			if d.Res == "720" {
-				downloadTorrent(d.Torrent)
+				wg.Add(1)
+
+				// Throttle execution by 1 second because the API doesn't return Content-Disposition if it's too fast
+				time.Sleep(1 * time.Second)
+				go func() {
+					defer wg.Done()
+					downloadTorrent(d.Torrent)
+				}()
 				break
 			}
 		}
 	}
+
+	wg.Wait()
 }
 
 func downloadTorrent(url string) {
@@ -91,7 +104,7 @@ func downloadTorrent(url string) {
 func GetFilename(contentDisposition string) string {
 	_, params, err := mime.ParseMediaType(contentDisposition)
 	if err != nil {
-		log.Println("Invalid media type ", contentDisposition)
+		log.Println("Invalid media type:", contentDisposition)
 	}
 
 	return params["filename"]

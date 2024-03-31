@@ -37,7 +37,10 @@ func Run() {
 func main() {
 	// config log with line number
 	log.SetFlags(log.LstdFlags | log.Lshortfile)
+
+	fmt.Println("Start")
 	Run()
+	fmt.Println("Completed")
 }
 
 func getSID(n *html.Node) string {
