@@ -3,18 +3,15 @@ package main
 import (
 	"fmt"
 	"log"
+	"log/slog"
 	"net/http"
-	"os"
 
 	"golang.org/x/net/html"
 )
 
 const host = "https://subsplease.org/shows"
 
-func main() {
-	// config slog with line number
-	slog := log.New(os.Stderr, "", log.LstdFlags|log.Lshortfile)
-
+func Run() {
 	// Code
 	// Arguments from CLI -> type is a URL
 	path := "7th-time-loop"
@@ -22,29 +19,25 @@ func main() {
 
 	resp, err := http.Get(fullUrl)
 	if err != nil {
-		slog.Println(err)
+		slog.Error(err.Error())
 	}
 
 	defer resp.Body.Close()
 
-	// bytes, _ := io.ReadAll(resp.Body)
-	// fmt.Println("HTML:\n\n", string(bytes))
-
-	// sid := func()
-
-	// Parse and get table element with id "show-release-table"
-	// Get the value of the attribute "sid"
 	doc, err := html.Parse(resp.Body)
 	if err != nil {
-		slog.Println("Cannot parse HTML")
+		slog.Error("Cannot parse HTML")
 		return
 	}
 
 	sid := getSID(doc)
+	getEpisodes(sid)
+}
 
-	fmt.Println("sid: ", sid)
-
-	// Then make another request to https://subsplease.org/api/?f=show&tz=Australia/Sydney&sid=%s
+func main() {
+	// config log with line number
+	log.SetFlags(log.LstdFlags | log.Lshortfile)
+	Run()
 }
 
 func getSID(n *html.Node) string {

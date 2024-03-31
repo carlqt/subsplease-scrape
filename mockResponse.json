@@ -1,0 +1,317 @@
+{
+	"batch": [],
+	"episode": {
+			"7th Time Loop - 12": {
+					"time": "03/25/24",
+					"release_date": "Mon, 25 Mar 2024 01:16:46 +1100",
+					"show": "7th Time Loop",
+					"episode": "12",
+					"downloads": [
+							{
+									"res": "480",
+									"torrent": "https://nyaa.si/view/1794140/torrent",
+									"magnet": "magnet:?xt=urn:btih:V6YD2TDRESZONASEUHNGMMXDSN7SKJH7&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2012%20%28480p%29%20%5B36B120E0%5D.mkv&xl=384680379&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+12+%28480p%29%22"
+							},
+							{
+									"res": "720",
+									"torrent": "https://nyaa.si/view/1794141/torrent",
+									"magnet": "magnet:?xt=urn:btih:PTENIBZXIHTOX3WQFGO2CIFYSDVXGLIU&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2012%20%28720p%29%20%5B9B3F5565%5D.mkv&xl=741961619&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+12+%28720p%29%22"
+							},
+							{
+									"res": "1080",
+									"torrent": "https://nyaa.si/view/1794143/torrent",
+									"magnet": "magnet:?xt=urn:btih:IMUACKJTTWHEE7WC3T52JBLDD6AXQN2P&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2012%20%281080p%29%20%5B38E50CF2%5D.mkv&xl=1453802694&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+12+%281080p%29%22"
+							}
+					]
+			},
+			"7th Time Loop - 11": {
+					"time": "03/18/24",
+					"release_date": "Mon, 18 Mar 2024 01:16:44 +1100",
+					"show": "7th Time Loop",
+					"episode": "11",
+					"downloads": [
+							{
+									"res": "480",
+									"torrent": "https://nyaa.si/view/1790993/torrent",
+									"magnet": "magnet:?xt=urn:btih:S4LZS7MDGPK4H5IQQCQ6AHFC5XE5E6JS&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2011%20%28480p%29%20%5B0E667388%5D.mkv&xl=386874958&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+11+%28480p%29%22"
+							},
+							{
+									"res": "720",
+									"torrent": "https://nyaa.si/view/1790995/torrent",
+									"magnet": "magnet:?xt=urn:btih:F57U7NS4IOKDGIRTNNZ67M6YUJ6BLOC2&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2011%20%28720p%29%20%5B09BA1D9F%5D.mkv&xl=741156804&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+11+%28720p%29%22"
+							},
+							{
+									"res": "1080",
+									"torrent": "https://nyaa.si/view/1790997/torrent",
+									"magnet": "magnet:?xt=urn:btih:JZX2ZHKGZS2DHFOYC3HACDZ3DTYNW2QH&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2011%20%281080p%29%20%5B8D530E18%5D.mkv&xl=1456947501&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+11+%281080p%29%22"
+							}
+					]
+			},
+			"7th Time Loop - 10": {
+					"time": "03/11/24",
+					"release_date": "Mon, 11 Mar 2024 01:16:28 +1100",
+					"show": "7th Time Loop",
+					"episode": "10",
+					"downloads": [
+							{
+									"res": "480",
+									"torrent": "https://nyaa.si/view/1788030/torrent",
+									"magnet": "magnet:?xt=urn:btih:PLM5ZPYLJPYVYMWTTU7GH44X5NSFDXOG&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2010%20%28480p%29%20%5B33EB46E0%5D.mkv&xl=380235649&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+10+%28480p%29%22"
+							},
+							{
+									"res": "720",
+									"torrent": "https://nyaa.si/view/1788031/torrent",
+									"magnet": "magnet:?xt=urn:btih:4RWB7IIFCCPDAOYR2JQFPFC5X72BFVWK&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2010%20%28720p%29%20%5B61FE7ABE%5D.mkv&xl=740046451&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+10+%28720p%29%22"
+							},
+							{
+									"res": "1080",
+									"torrent": "https://nyaa.si/view/1788032/torrent",
+									"magnet": "magnet:?xt=urn:btih:JHBVBMVUKL5UC424RGDR3IHSNPDW7DCF&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2010%20%281080p%29%20%5B2F717511%5D.mkv&xl=1453458065&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+10+%281080p%29%22"
+							}
+					]
+			},
+			"7th Time Loop - 09": {
+					"time": "03/04/24",
+					"release_date": "Mon, 04 Mar 2024 02:16:34 +1100",
+					"show": "7th Time Loop",
+					"episode": "09",
+					"downloads": [
+							{
+									"res": "480",
+									"torrent": "https://nyaa.si/view/1785298/torrent",
+									"magnet": "magnet:?xt=urn:btih:MDWC6K7BGFGZL6H2GY7XJV3ATKTHEAZF&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2009%20%28480p%29%20%5B1DFBBA43%5D.mkv&xl=379876031&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+09+%28480p%29%22"
+							},
+							{
+									"res": "720",
+									"torrent": "https://nyaa.si/view/1785299/torrent",
+									"magnet": "magnet:?xt=urn:btih:6TFZKCPAHF6P3DUQMVUGZAUY64S36QRU&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2009%20%28720p%29%20%5B21E88E99%5D.mkv&xl=740021323&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+09+%28720p%29%22"
+							},
+							{
+									"res": "1080",
+									"torrent": "https://nyaa.si/view/1785301/torrent",
+									"magnet": "magnet:?xt=urn:btih:KOKRCOCWT6KIFWAJAZE2Z3XSK6MOP2MI&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2009%20%281080p%29%20%5BA76FDD24%5D.mkv&xl=1450986901&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+09+%281080p%29%22"
+							}
+					]
+			},
+			"7th Time Loop - 08": {
+					"time": "02/26/24",
+					"release_date": "Mon, 26 Feb 2024 02:16:27 +1100",
+					"show": "7th Time Loop",
+					"episode": "08",
+					"downloads": [
+							{
+									"res": "480",
+									"torrent": "https://nyaa.si/view/1782326/torrent",
+									"magnet": "magnet:?xt=urn:btih:UYGZTNUHYHMPVCD5NQMI26N6FR55VQSN&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2008%20%28480p%29%20%5BB790D962%5D.mkv&xl=381238945&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+08+%28480p%29%22"
+							},
+							{
+									"res": "720",
+									"torrent": "https://nyaa.si/view/1782327/torrent",
+									"magnet": "magnet:?xt=urn:btih:NLJ3DHYONM6ZXECJ5YXTG7CIL322RGIZ&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2008%20%28720p%29%20%5BAF207E67%5D.mkv&xl=741744949&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+08+%28720p%29%22"
+							},
+							{
+									"res": "1080",
+									"torrent": "https://nyaa.si/view/1782329/torrent",
+									"magnet": "magnet:?xt=urn:btih:GS23AWDC2VWRS3RKXY3DNZJIY6JWF6OF&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2008%20%281080p%29%20%5B594B97E8%5D.mkv&xl=1452050100&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+08+%281080p%29%22"
+							}
+					]
+			},
+			"7th Time Loop - 07": {
+					"time": "02/19/24",
+					"release_date": "Mon, 19 Feb 2024 02:16:46 +1100",
+					"show": "7th Time Loop",
+					"episode": "07",
+					"downloads": [
+							{
+									"res": "480",
+									"torrent": "https://nyaa.si/view/1779558/torrent",
+									"magnet": "magnet:?xt=urn:btih:S37CWSEOC7JLHNDUYNGRM2ISTTGL7T2W&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2007%20%28480p%29%20%5B8B5E5311%5D.mkv&xl=379294793&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+07+%28480p%29%22"
+							},
+							{
+									"res": "720",
+									"torrent": "https://nyaa.si/view/1779560/torrent",
+									"magnet": "magnet:?xt=urn:btih:FG4PZ5MEELQJXQAF5X4ABDHFGPRYZYPW&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2007%20%28720p%29%20%5BDAAD7488%5D.mkv&xl=741346749&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+07+%28720p%29%22"
+							},
+							{
+									"res": "1080",
+									"torrent": "https://nyaa.si/view/1779565/torrent",
+									"magnet": "magnet:?xt=urn:btih:QCHWX3VZF5VDUMSLIEGXL6NZJNWHNWOX&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2007%20%281080p%29%20%5B3C25408D%5D.mkv&xl=1457714705&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+07+%281080p%29%22"
+							}
+					]
+			},
+			"7th Time Loop - 06": {
+					"time": "02/12/24",
+					"release_date": "Mon, 12 Feb 2024 02:16:34 +1100",
+					"show": "7th Time Loop",
+					"episode": "06",
+					"downloads": [
+							{
+									"res": "480",
+									"torrent": "https://nyaa.si/view/1777103/torrent",
+									"magnet": "magnet:?xt=urn:btih:VQUWKX6FV24XEMG4I6XDREDDDHGPZL3X&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2006%20%28480p%29%20%5BCFD26F45%5D.mkv&xl=380276562&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+06+%28480p%29%22"
+							},
+							{
+									"res": "720",
+									"torrent": "https://nyaa.si/view/1777105/torrent",
+									"magnet": "magnet:?xt=urn:btih:EFRAUACHONHDOVZRUXJULIZABEPGZ4L6&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2006%20%28720p%29%20%5B7834DF89%5D.mkv&xl=740872076&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+06+%28720p%29%22"
+							},
+							{
+									"res": "1080",
+									"torrent": "https://nyaa.si/view/1777107/torrent",
+									"magnet": "magnet:?xt=urn:btih:STTE6QGM5WZK3CZSQ2VXJVFTHPFJ3LGD&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2006%20%281080p%29%20%5BD97EC065%5D.mkv&xl=1454324125&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+06+%281080p%29%22"
+							}
+					]
+			},
+			"7th Time Loop - 05": {
+					"time": "02/05/24",
+					"release_date": "Mon, 05 Feb 2024 02:16:52 +1100",
+					"show": "7th Time Loop",
+					"episode": "05",
+					"downloads": [
+							{
+									"res": "480",
+									"torrent": "https://nyaa.si/view/1774538/torrent",
+									"magnet": "magnet:?xt=urn:btih:6SXHOTOMGSJA2EJ5NZ2NB54QFOSDZ4AH&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2005%20%28480p%29%20%5B14AD6582%5D.mkv&xl=381201084&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+05+%28480p%29%22"
+							},
+							{
+									"res": "720",
+									"torrent": "https://nyaa.si/view/1774539/torrent",
+									"magnet": "magnet:?xt=urn:btih:EDBYJXPRLIGEIGANV7FUWGUAKAL2I5T7&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2005%20%28720p%29%20%5B8936C79B%5D.mkv&xl=741154261&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+05+%28720p%29%22"
+							},
+							{
+									"res": "1080",
+									"torrent": "https://nyaa.si/view/1774541/torrent",
+									"magnet": "magnet:?xt=urn:btih:MF3D54NCEDHV3EWDKD375L6DBDRHLERD&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2005%20%281080p%29%20%5B4940DEC1%5D.mkv&xl=1455141041&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+05+%281080p%29%22"
+							}
+					]
+			},
+			"7th Time Loop - 04": {
+					"time": "01/29/24",
+					"release_date": "Mon, 29 Jan 2024 02:16:27 +1100",
+					"show": "7th Time Loop",
+					"episode": "04",
+					"downloads": [
+							{
+									"res": "480",
+									"torrent": "https://nyaa.si/view/1771948/torrent",
+									"magnet": "magnet:?xt=urn:btih:V6DJUTEZ7KZUN7DJ3WQEVOBGINLPBDY4&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2004%20%28480p%29%20%5BD7E2CCC9%5D.mkv&xl=381312419&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+04+%28480p%29%22"
+							},
+							{
+									"res": "720",
+									"torrent": "https://nyaa.si/view/1771949/torrent",
+									"magnet": "magnet:?xt=urn:btih:AVC35PRYFJIE4P26UZC3CSAZVCFQQ34F&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2004%20%28720p%29%20%5B757BADD0%5D.mkv&xl=742302725&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+04+%28720p%29%22"
+							},
+							{
+									"res": "1080",
+									"torrent": "https://nyaa.si/view/1771952/torrent",
+									"magnet": "magnet:?xt=urn:btih:ZW55YI4K4352UK3LI4YEEZUJ2ZFBRRBH&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2004%20%281080p%29%20%5B3B97B3F5%5D.mkv&xl=1451799069&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+04+%281080p%29%22"
+							}
+					]
+			},
+			"7th Time Loop - 03": {
+					"time": "01/22/24",
+					"release_date": "Mon, 22 Jan 2024 02:19:55 +1100",
+					"show": "7th Time Loop",
+					"episode": "03",
+					"downloads": [
+							{
+									"res": "480",
+									"torrent": "https://nyaa.si/view/1769054/torrent",
+									"magnet": "magnet:?xt=urn:btih:NYSSFNWA64BNZYV6VDQAHJ535J57OWPK&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2003%20%28480p%29%20%5BBB539DA1%5D.mkv&xl=380358606&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+03+%28480p%29%22"
+							},
+							{
+									"res": "720",
+									"torrent": "https://nyaa.si/view/1769055/torrent",
+									"magnet": "magnet:?xt=urn:btih:QEZZVNCRQ4HN53IP3A645RRVLKWC4XNK&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2003%20%28720p%29%20%5B9E1DC893%5D.mkv&xl=739487849&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+03+%28720p%29%22"
+							},
+							{
+									"res": "1080",
+									"torrent": "https://nyaa.si/view/1769058/torrent",
+									"magnet": "magnet:?xt=urn:btih:272CVKKC3ZG3YKF3AABBXWFXF3LT4FDN&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2003%20%281080p%29%20%5B831E9370%5D.mkv&xl=1452698249&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+03+%281080p%29%22"
+							}
+					]
+			},
+			"7th Time Loop - 02": {
+					"time": "01/15/24",
+					"release_date": "Mon, 15 Jan 2024 02:16:31 +1100",
+					"show": "7th Time Loop",
+					"episode": "02",
+					"downloads": [
+							{
+									"res": "480",
+									"torrent": "https://nyaa.si/view/1766317/torrent",
+									"magnet": "magnet:?xt=urn:btih:TU45TLAQCZTCEI6BMPSSKCBS44QBTEGU&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2002%20%28480p%29%20%5B312B6329%5D.mkv&xl=380427180&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+02+%28480p%29%22"
+							},
+							{
+									"res": "720",
+									"torrent": "https://nyaa.si/view/1766320/torrent",
+									"magnet": "magnet:?xt=urn:btih:ZYWU4L4NKEDVRY4OAAYSK4TT2FN4HEIH&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2002%20%28720p%29%20%5B8617AE40%5D.mkv&xl=738948893&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+02+%28720p%29%22"
+							},
+							{
+									"res": "1080",
+									"torrent": "https://nyaa.si/view/1766323/torrent",
+									"magnet": "magnet:?xt=urn:btih:W3IWVSOPOSWPGFV2UH7QF35R5ZDNXAJG&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2002%20%281080p%29%20%5B1E67B42B%5D.mkv&xl=1451566174&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+02+%281080p%29%22"
+							}
+					]
+			},
+			"7th Time Loop - 01": {
+					"time": "01/08/24",
+					"release_date": "Mon, 08 Jan 2024 09:38:23 +1100",
+					"show": "7th Time Loop",
+					"episode": "01",
+					"downloads": [
+							{
+									"res": "480",
+									"torrent": "https://nyaa.si/view/1763796/torrent",
+									"magnet": "magnet:?xt=urn:btih:P32TFL4PZO5XP54RQIEYTPLOKHJYPU3L&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2001%20%28480p%29%20%5BB04A2CB6%5D.mkv&xl=381292689&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+01+%28480p%29%22"
+							},
+							{
+									"res": "720",
+									"torrent": "https://nyaa.si/view/1763797/torrent",
+									"magnet": "magnet:?xt=urn:btih:AKTEWGHFZFOPDXXNRMQUJ6JBEW2DAG5O&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2001%20%28720p%29%20%5B94CED6D5%5D.mkv&xl=744566753&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+01+%28720p%29%22"
+							},
+							{
+									"res": "1080",
+									"torrent": "https://nyaa.si/view/1763908/torrent",
+									"magnet": "magnet:?xt=urn:btih:GKBSL3EYRCVJPOLWECZZIMQJDFDVWCAG&dn=%5BSubsPlease%5D%207th%20Time%20Loop%20-%2001%20%281080p%29%20%5B890A7ABF%5D.mkv&xl=1459558182&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=wss%3A%2F%2Ftracker.openwebtorrent.com",
+									"xdcc": "%22%5BSubsPlease%5D+7th+Time+Loop+-+01+%281080p%29%22"
+							}
+					]
+			}
+	}
+}
