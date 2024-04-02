@@ -1,56 +1,46 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"log"
-	"log/slog"
-	"net/http"
+	"net/url"
+	"os"
 
-	"golang.org/x/net/html"
+	"github.com/carlqt/anime-downloader/subsplease"
 )
 
-const host = "https://subsplease.org/shows"
-
-func Run() {
-	// Code
-	// Arguments from CLI -> type is a URL
-	path := "7th-time-loop"
-	fullUrl := fmt.Sprintf("%s/%s", host, path)
-
-	resp, err := http.Get(fullUrl)
+func Run(address *url.URL) {
+	homeDir, err := os.UserHomeDir()
 	if err != nil {
-		slog.Error(err.Error())
+		log.Println(err)
 	}
 
-	defer resp.Body.Close()
+	outputDir := fmt.Sprintf("%s/Downloads", homeDir)
 
-	doc, err := html.Parse(resp.Body)
+	subsplease, err := subsplease.NewSubsplease(address, outputDir)
 	if err != nil {
-		slog.Error("Cannot parse HTML")
-		return
+		panic(err)
 	}
 
-	sid := getSID(doc)
-	getEpisodes(sid)
+	subsplease.Run()
 }
 
 func main() {
 	// config log with line number
 	log.SetFlags(log.LstdFlags | log.Lshortfile)
 
-	fmt.Println("Start")
-	Run()
-	fmt.Println("Completed")
-}
+	// Handle command line args
+	urlVal := flag.String("u", "", "The url of subsplease to scrape")
+	flag.Parse()
 
-func getSID(n *html.Node) string {
-	var sid string
-	node := getElementById(n, "show-release-table")
-
-	sid, ok := GetAttribute(node, "sid")
-	if !ok {
-		log.Println("Cannot find sid")
+	parsedUrl, err := url.ParseRequestURI(*urlVal)
+	if err != nil {
+		fmt.Printf("%s is not a valid url\n", *urlVal)
+		return
 	}
 
-	return sid
+	fmt.Println("Start")
+	Run(parsedUrl)
+	fmt.Println("Completed")
 }

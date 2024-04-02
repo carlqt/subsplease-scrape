@@ -1,4 +1,4 @@
-package main
+package domquery
 
 import "golang.org/x/net/html"
 
@@ -36,6 +36,6 @@ func traverse(n *html.Node, id string) *html.Node {
 	return nil
 }
 
-func getElementById(n *html.Node, id string) *html.Node {
+func GetElementById(n *html.Node, id string) *html.Node {
 	return traverse(n, id)
 }

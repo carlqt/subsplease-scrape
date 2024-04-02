@@ -1,4 +1,4 @@
-package main
+package subsplease
 
 import (
 	"encoding/json"
@@ -92,7 +92,7 @@ func downloadTorrent(url string) {
 	defer resp.Body.Close()
 
 	val := resp.Header.Get("Content-Disposition")
-	filename := GetFilename(val)
+	filename := getFilename(val)
 
 	filepath := fmt.Sprintf("%s/Downloads/%s", homeDir, filename)
 	out, _ := os.Create(filepath)
@@ -101,7 +101,7 @@ func downloadTorrent(url string) {
 	io.Copy(out, resp.Body)
 }
 
-func GetFilename(contentDisposition string) string {
+func getFilename(contentDisposition string) string {
 	_, params, err := mime.ParseMediaType(contentDisposition)
 	if err != nil {
 		log.Println("Invalid media type:", contentDisposition)
