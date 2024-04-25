@@ -44,3 +44,7 @@ func main() {
 	Run(parsedUrl)
 	fmt.Println("Completed")
 }
+
+// Initializers
+// Visit page to get sid
+//	- scrape

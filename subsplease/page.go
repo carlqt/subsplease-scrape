@@ -20,6 +20,7 @@ type Page struct {
 }
 
 type EpisodeDetail struct {
+	// The title of the Anime
 	Show      string     `json:"show"`
 	Episode   string     `json:"episode"`
 	Downloads []Download `json:"downloads"`
