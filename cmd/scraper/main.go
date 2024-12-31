@@ -8,6 +8,7 @@ import (
 	"os"
 	"path/filepath"
 
+	"github.com/carlqt/anime-downloader/organizer"
 	"github.com/carlqt/anime-downloader/subsplease"
 )
 
@@ -33,17 +34,24 @@ func main() {
 
 	// Handle command line args
 	urlVal := flag.String("u", "", "The url of subsplease to scrape")
+	episodeName := flag.String("o", "", "Name of the episode")
 	flag.Parse()
 
-	parsedUrl, err := url.ParseRequestURI(*urlVal)
-	if err != nil {
-		fmt.Printf("%s is not a valid url\n", *urlVal)
-		return
-	}
+	if *urlVal != "" {
+		parsedUrl, err := url.ParseRequestURI(*urlVal)
+		if err != nil {
+			fmt.Printf("%s is not a valid url\n", *urlVal)
+			return
+		}
 
-	fmt.Println("Start")
-	Run(parsedUrl)
-	fmt.Println("Completed")
+		fmt.Println("Start")
+		Run(parsedUrl)
+		fmt.Println("Completed")
+	} else if *episodeName != "" {
+		sourceDir := ""
+
+		organizer.Run(*episodeName, sourceDir)
+	}
 }
 
 // Initializers
