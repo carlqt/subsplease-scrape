@@ -6,6 +6,7 @@ import (
 	"log"
 	"net/url"
 	"os"
+	"path/filepath"
 
 	"github.com/carlqt/anime-downloader/subsplease"
 )
@@ -16,7 +17,7 @@ func Run(address *url.URL) {
 		log.Println(err)
 	}
 
-	outputDir := fmt.Sprintf("%s/Downloads", homeDir)
+	outputDir := filepath.Join(homeDir, "Downloads")
 
 	subsplease, err := subsplease.NewSubsplease(address, outputDir)
 	if err != nil {
