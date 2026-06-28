@@ -5,3 +5,8 @@ tasks:
     desc: Compile and install the binary locally
     cmds:
       - go build -o ~/.bin/subscrape cmd/scraper/main.go
+
+  run:
+    desc: Run stuff
+    cmds:
+      - go run cmd/scraper/main.go

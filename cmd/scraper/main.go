@@ -32,10 +32,14 @@ func main() {
 	// config log with line number
 	log.SetFlags(log.LstdFlags | log.Lshortfile)
 
-	// Handle command line args
 	urlVal := flag.String("u", "", "The url of subsplease to scrape")
 	episodeName := flag.String("o", "", "Name of the episode")
 	flag.Parse()
+
+	if len(os.Args) == 1 {
+		flag.Usage()
+		os.Exit(0)
+	}
 
 	if *urlVal != "" {
 		parsedUrl, err := url.ParseRequestURI(*urlVal)
@@ -53,7 +57,3 @@ func main() {
 		organizer.Run(*episodeName, sourceDir)
 	}
 }
-
-// Initializers
-// Visit page to get sid
-//	- scrape

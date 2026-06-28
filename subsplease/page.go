@@ -15,7 +15,7 @@ import (
 type Episode map[string]EpisodeDetail
 
 type Page struct {
-	Batch   interface{}
+	Batch   any
 	Episode Episode `json:"episode"`
 }
 
