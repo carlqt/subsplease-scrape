@@ -4,56 +4,47 @@ import (
 	"flag"
 	"fmt"
 	"log"
-	"net/url"
 	"os"
-	"path/filepath"
 
-	"github.com/carlqt/anime-downloader/organizer"
-	"github.com/carlqt/anime-downloader/subsplease"
+	"github.com/carlqt/anime-downloader/commands"
 )
-
-func Run(address *url.URL) {
-	homeDir, err := os.UserHomeDir()
-	if err != nil {
-		log.Println(err)
-	}
-
-	outputDir := filepath.Join(homeDir, "Downloads")
-
-	subsplease, err := subsplease.NewSubsplease(address, outputDir)
-	if err != nil {
-		panic(err)
-	}
-
-	subsplease.Run()
-}
 
 func main() {
 	// config log with line number
 	log.SetFlags(log.LstdFlags | log.Lshortfile)
 
-	urlVal := flag.String("u", "", "The url of subsplease to scrape")
-	episodeName := flag.String("o", "", "Name of the episode")
-	flag.Parse()
+	downloadCommand := commands.NewDownloadCommand()
+	organizeCommand := commands.NewOrganizeCommand()
 
-	if len(os.Args) == 1 {
-		flag.Usage()
-		os.Exit(0)
+	flag.Usage = func() {
+		fmt.Fprintf(os.Stderr, "Usage: subscrape <command> [arguments]\n\n")
+		fmt.Fprintf(os.Stderr, "The commands are:\n")
+		fmt.Fprintf(os.Stderr, "  download       Downloads episodes in subs-please\n")
+		fmt.Fprintf(os.Stderr, "  organize       Organizes the downloaded episodes into a folder\n\n")
+		fmt.Fprintf(os.Stderr, "Use \"subscrape <command> -h\" for more information about a command.\n")
 	}
 
-	if *urlVal != "" {
-		parsedUrl, err := url.ParseRequestURI(*urlVal)
-		if err != nil {
-			fmt.Printf("%s is not a valid url\n", *urlVal)
+	if len(os.Args) < 2 {
+		flag.Usage()
+		return
+	}
+
+	switch os.Args[1] {
+	case "download":
+		if len(os.Args) < 3 {
+			downloadCommand.Usage()
 			return
 		}
 
-		fmt.Println("Start")
-		Run(parsedUrl)
-		fmt.Println("Completed")
-	} else if *episodeName != "" {
-		sourceDir := ""
+		downloadCommand.Run()
+	case "organize":
+		if len(os.Args) < 3 {
+			organizeCommand.Usage()
+			return
+		}
+		organizeCommand.Run()
 
-		organizer.Run(*episodeName, sourceDir)
+	default:
+		fmt.Println("Nothing")
 	}
 }

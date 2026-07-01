@@ -1,4 +1,4 @@
-package domquery
+package download
 
 import "golang.org/x/net/html"
 

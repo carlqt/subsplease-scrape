@@ -1,4 +1,4 @@
-package subsplease
+package download
 
 import (
 	"encoding/json"

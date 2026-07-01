@@ -1,4 +1,4 @@
-package subsplease
+package download
 
 import (
 	"errors"
@@ -7,7 +7,6 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/carlqt/anime-downloader/domquery"
 	"golang.org/x/net/html"
 )
 
@@ -16,7 +15,7 @@ type Subsplease struct {
 	OutputDirectory string
 }
 
-func NewSubsplease(address *url.URL, outputDir string) (Subsplease, error) {
+func newSubsplease(address *url.URL, outputDir string) (Subsplease, error) {
 	var subsplease Subsplease
 
 	if address.Host != "subsplease.org" {
@@ -62,9 +61,9 @@ func getHtmlDocument(address string) (*html.Node, error) {
 
 func getSID(n *html.Node) string {
 	var sid string
-	node := domquery.GetElementById(n, "show-release-table")
+	node := GetElementById(n, "show-release-table")
 
-	sid, ok := domquery.GetAttribute(node, "sid")
+	sid, ok := GetAttribute(node, "sid")
 
 	if !ok {
 		log.Println("Cannot find sid")

@@ -1,6 +1,7 @@
-package organizer
+package organize
 
 import (
+	"flag"
 	"fmt"
 	"log"
 	"os"
@@ -9,6 +10,32 @@ import (
 
 	"github.com/texttheater/golang-levenshtein/levenshtein"
 )
+
+type OrganizeCommand struct {
+	Description string
+	Name        string
+	FlagSet     *flag.FlagSet
+}
+
+func NewOrganizeCommand() OrganizeCommand {
+	name := "organize"
+	organizeCommand := flag.NewFlagSet(name, flag.ExitOnError)
+	organizeCommand.Usage = func() {
+		fmt.Fprintf(os.Stderr, "Usage: subscrape organize [Name of Episode]\n\n")
+		fmt.Fprintf(os.Stderr, "Compacts all related videos into a folder\n\n")
+		fmt.Fprintf(os.Stderr, "Example: subscrape organize \"[SubsPlease] Vampire Dormitory - 06 (720p) [11903712].mkv\"\n")
+	}
+
+	return OrganizeCommand{
+		Description: "Organize video files into folders based on their titles",
+		Name:        name,
+		FlagSet:     organizeCommand,
+	}
+}
+
+func (c OrganizeCommand) Usage() {
+	c.FlagSet.Usage()
+}
 
 // func watchDir(dir string) {
 // 	dirEntries, err := os.ReadDir(dir)
@@ -52,15 +79,18 @@ func dirExists(path string) bool {
 	return err == nil
 }
 
-func Run(episodeName string, sourceDir string) {
+func (c OrganizeCommand) Run() {
+	var sourceDir string
+
+	c.FlagSet.Parse(os.Args[2:])
+
 	homeDir, err := os.UserHomeDir()
 	if err != nil {
 		log.Println(err)
 	}
 
-	if sourceDir == "" {
-		sourceDir = path.Join(homeDir, "Documents", "Videos")
-	}
+	sourceDir = path.Join(homeDir, "Documents", "Videos")
+	episodeName := c.FlagSet.Arg(0)
 
 	vid := newVidFile(path.Join(sourceDir, episodeName))
 

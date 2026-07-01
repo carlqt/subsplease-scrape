@@ -1,4 +1,4 @@
-package organizer
+package organize
 
 import (
 	"path/filepath"
