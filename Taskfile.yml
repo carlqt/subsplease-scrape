@@ -9,4 +9,9 @@ tasks:
   run:
     desc: Run stuff
     cmds:
-      - go run cmd/scraper/main.go
+      - go run cmd/scraper/main.go {{.CLI_ARGS}}
+
+  test:
+    desc: Run `go test`
+    cmds:
+      - go tool gotestsum

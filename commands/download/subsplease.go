@@ -13,9 +13,10 @@ import (
 type Subsplease struct {
 	ShowAddress     string
 	OutputDirectory string
+	Resolution      int
 }
 
-func newSubsplease(address *url.URL, outputDir string) (Subsplease, error) {
+func newSubsplease(address *url.URL, outputDir string, resolution int) (Subsplease, error) {
 	var subsplease Subsplease
 
 	if address.Host != "subsplease.org" {
@@ -25,6 +26,7 @@ func newSubsplease(address *url.URL, outputDir string) (Subsplease, error) {
 	subsplease = Subsplease{
 		ShowAddress:     address.String(),
 		OutputDirectory: outputDir,
+		Resolution:      resolution,
 	}
 
 	return subsplease, nil
@@ -37,7 +39,7 @@ func (s Subsplease) Run() {
 	sid := getSID(htmlDoc)
 
 	// Call the API
-	getEpisodes(sid)
+	getEpisodes(sid, s.Resolution)
 }
 
 func getHtmlDocument(address string) (*html.Node, error) {

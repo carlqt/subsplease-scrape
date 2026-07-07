@@ -8,6 +8,7 @@ import (
 	"mime"
 	"net/http"
 	"os"
+	"strconv"
 	"sync"
 	"time"
 )
@@ -35,7 +36,7 @@ type Download struct {
 
 // "https://subsplease.org/api/?f=show&tz=Australia/Sydney&sid=701"
 
-func getEpisodes(sid string) {
+func getEpisodes(sid string, requestedResolution int) {
 	var page Page
 
 	episodesUrl := fmt.Sprintf("https://subsplease.org/api/?f=show&tz=Australia/Sydney&sid=%s", sid)
@@ -54,16 +55,18 @@ func getEpisodes(sid string) {
 
 	json.Unmarshal(bytesVal, &page)
 
-	downloadAllEpisodes(page.Episode)
+	resolution := strconv.Itoa(requestedResolution)
+	log.Printf("Downloading episodes with resolution %sp\n", resolution)
+	downloadAllEpisodes(page.Episode, resolution)
 }
 
-// downloadAllEpisodes extracts the 720p links and downloads it
-func downloadAllEpisodes(episode Episode) {
+// downloadAllEpisodes extracts the requested resolution links and downloads it
+func downloadAllEpisodes(episode Episode, requestedResolution string) {
 	var wg sync.WaitGroup
 
 	for _, v := range episode {
 		for _, d := range v.Downloads {
-			if d.Res == "720" {
+			if d.Res == requestedResolution {
 				wg.Add(1)
 
 				// Throttle execution by 1 second because the API doesn't return Content-Disposition if it's too fast

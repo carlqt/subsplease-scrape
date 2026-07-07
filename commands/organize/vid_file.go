@@ -6,8 +6,6 @@ import (
 	"strings"
 )
 
-var videoTypes = []string{".mkv", ".mp4"}
-
 type vidFile struct {
 	Path string
 }

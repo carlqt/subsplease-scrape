@@ -5,6 +5,12 @@ import (
 	"github.com/carlqt/anime-downloader/commands/organize"
 )
 
+// type Commands interface {
+// 	Parse(arguments []string) error
+// 	Run()
+// 	Usage()
+// }
+
 type DownloadCommand = download.DownloadCommand
 type OrganizeCommand = organize.OrganizeCommand
 
@@ -14,4 +20,8 @@ func NewDownloadCommand() DownloadCommand {
 
 func NewOrganizeCommand() OrganizeCommand {
 	return organize.NewOrganizeCommand()
+}
+
+func Parse(arguments []string) {
+
 }

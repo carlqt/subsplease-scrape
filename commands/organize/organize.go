@@ -8,13 +8,13 @@ import (
 	"path"
 	"path/filepath"
 
+	"github.com/carlqt/anime-downloader/commands/internal"
 	"github.com/texttheater/golang-levenshtein/levenshtein"
 )
 
 type OrganizeCommand struct {
-	Description string
-	Name        string
-	FlagSet     *flag.FlagSet
+	internal.BaseCommand
+	Argument string //Episode Name to organize
 }
 
 func NewOrganizeCommand() OrganizeCommand {
@@ -27,9 +27,11 @@ func NewOrganizeCommand() OrganizeCommand {
 	}
 
 	return OrganizeCommand{
-		Description: "Organize video files into folders based on their titles",
-		Name:        name,
-		FlagSet:     organizeCommand,
+		BaseCommand: internal.BaseCommand{
+			Description: "Organize video files into folders based on their titles",
+			Name:        name,
+			FlagSet:     organizeCommand,
+		},
 	}
 }
 
@@ -79,18 +81,33 @@ func dirExists(path string) bool {
 	return err == nil
 }
 
-func (c OrganizeCommand) Run() {
-	var sourceDir string
+func (c *OrganizeCommand) Parse(arguments []string) error {
+	err := c.FlagSet.Parse(arguments)
+	if err != nil {
+		return fmt.Errorf("failed to parse argument for organize: %v", err)
+	}
 
-	c.FlagSet.Parse(os.Args[2:])
+	episodeName := c.FlagSet.Arg(0)
+	c.Argument = episodeName
+
+	return nil
+}
+
+func (c OrganizeCommand) Run() {
+	if !c.FlagSet.Parsed() {
+		log.Println("FlagSet not parsed. Please call Parse() before Run().")
+		return
+	}
 
 	homeDir, err := os.UserHomeDir()
 	if err != nil {
-		log.Println(err)
+		log.Printf("unable to find home directory: %v", err)
+		return
 	}
 
-	sourceDir = path.Join(homeDir, "Documents", "Videos")
-	episodeName := c.FlagSet.Arg(0)
+	// Default directory to look for video
+	sourceDir := path.Join(homeDir, "Documents", "Videos")
+	episodeName := c.Argument
 
 	vid := newVidFile(path.Join(sourceDir, episodeName))
 
@@ -99,7 +116,11 @@ func (c OrganizeCommand) Run() {
 	folder := findOrCreateFolder(vid.Title(), sourceDir)
 
 	// Move all matched to the folder
-	dirEntries, _ := os.ReadDir(sourceDir)
+	dirEntries, err := os.ReadDir(sourceDir)
+	if err != nil {
+		log.Printf("unable to read directory %s: %v", sourceDir, err)
+		return
+	}
 
 	log.Println("moving all matched files to folder", "folderName", folder)
 	for _, f := range dirEntries {
